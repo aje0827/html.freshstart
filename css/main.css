@@ -1,1 +1,12 @@
-body{padding-top: 20px;}
+body{}
+
+.colored-stripes{
+	padding: 3px; margin-bottom: 10px;
+	background: repeating-linear-gradient(
+		45deg,
+		#606dbc,
+		#606dbc 10px,
+		#465298 10px,
+		#465298 20px
+	);
+}
