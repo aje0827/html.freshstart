@@ -16,3 +16,5 @@ It includes the following code libraries:
 
 * [Modernizr.js](http://modernizr.com) for device detection
 * [jQuery.js](http://jquery.com)
+
+### Have fun using this for your projects...
